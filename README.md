@@ -1,6 +1,6 @@
 # CardioSlice Viewer
 
-An application for performing segmentation on cardiac magnetic resonance (CMR) volumes and visualizing the heart in 3D with synchronized 2D CMR slices.
+An application for performing segmentation on cardiac magnetic resonance (CMR) volumes in congenital heart disease and visualizing the heart in 3D with synchronized 2D CMR slices.
 
 Check out the [demo](https://youtu.be/O1wSYlpfjjc)!
 
