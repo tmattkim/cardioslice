@@ -4,7 +4,7 @@ An application for performing segmentation on cardiac magnetic resonance (CMR) v
 
 Check out the [demo](https://youtu.be/O1wSYlpfjjc)!
 
-![CardioSlice Viewer Demo Image](/images/Screenshot 2025-05-29 at 8.07.45PM.png)
+![CardioSlice Viewer Demo Image](/images/cardioslice_viewer.png)
 
 ---
 
