@@ -30,4 +30,4 @@ pip install torch numpy nibabel pyvista scikit-image monai PyQt5 pyvistaqt matpl
 
 ## Additional Information
 
--- The 3D UNet model was trained on the HVSMR-2.0 [dataset](https://figshare.com/collections/HVSMR-2_0_A_3D_cardiovascular_MR_dataset_for_whole-heart_segmentation_in_congenital_heart_disease/7074755/2)
+- The 3D UNet model was trained on the HVSMR-2.0 [dataset](https://figshare.com/collections/HVSMR-2_0_A_3D_cardiovascular_MR_dataset_for_whole-heart_segmentation_in_congenital_heart_disease/7074755/2)
